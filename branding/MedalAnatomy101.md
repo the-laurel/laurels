@@ -1,7 +1,9 @@
 
 ![Sample image](https://raw.githubusercontent.com/the-laurel/laurels/main/branding/images/larger_medal.svg)
 # Medal Anatomy 101
-
+*The Laurel*
+---
+![Sample image](https://raw.githubusercontent.com/the-laurel/laurels/main/branding/images/ex_medal.png)
 
 ---
 # Hard Attributes
@@ -23,6 +25,8 @@
 - exportable
 ---
 
+![Sample image](https://raw.githubusercontent.com/the-laurel/laurels/main/branding/images/Medal%20Anatomy.png)
+---
 # Components
 
 - QR code for a link to Medal Tools
@@ -35,7 +39,7 @@
 
 # Ecosystem
 
-- Medal Tools on Observable
+- Medal Tools
 - Medal image generator
 - Member activity chart
 - The Laurel dApp on IPFS
@@ -54,6 +58,12 @@
 # The Laurel Project
 
 ![Sample image](https://raw.githubusercontent.com/the-laurel/laurels/main/branding/images/TheLaurel512.svg)
+
+
+---
+
+
+
 
 
 <style>
