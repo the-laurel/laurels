@@ -12,7 +12,7 @@ This is where you get ready for any higher level, including sympathizer. Once yo
 In the first 3 days, you are expected to complete Step 1 -> 3 and get your first laurels. If you need help with any of the steps, ask in this channel.
 
 ## Step 1 - Create the necessary Accounts
-1. install Metamask as a browser extension: https://metamask.io/download.html and create a wallet. We will only use a test network for The Laurel - currently Rinkeby. Choose one of the created Ethereum addresses (looks like 0x90F79bf6EB2c4f870365E785982E1f101E93b906) to use with The Laurel.
+1. Download the Metamask mobile app or install Metamask as a browser extension: https://metamask.io/download.html and create a wallet. We will only use a test network for The Laurel - currently Rinkeby. Choose one of the created Ethereum addresses (looks like 0x90F79bf6EB2c4f870365E785982E1f101E93b906) to use with The Laurel.
 2. get Rinkeby testnet ETH: https://faucet.rinkeby.io/
 3. create a GitHub account: https://github.com/
 4. Fork this repo into your github account.
