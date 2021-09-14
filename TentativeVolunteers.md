@@ -6,6 +6,17 @@
 - get your first Laurels
 - monitor/propose additional tasks
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- - [Features](#features)
+- - [Feedback](#feedback)
+- - [Contributors](#contributors)
+- - [Build Process](#build-process)
+- - [Backers](#backers-)
+- - [Sponsors](#sponsors-)
+- - [Acknowledgments](#acknowledgments)
+
 Welcome to the tentative volunteers group.
 This is where you get ready for any higher level, including sympathizer. Once you complete 3h of volunteering, your role will be upgraded to @sympathizer. You have 1 week. Success.
 
