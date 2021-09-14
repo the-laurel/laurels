@@ -38,3 +38,5 @@ If you do not find a task that you can do, ask in the channel.
 
 ## Aftermath
 After the first week and/or accumulating the necessary Laurels for your level of involvement, you will have access to the corresponding repos and Discord channels.
+
+TODO: WIP to help onboard newcomers
