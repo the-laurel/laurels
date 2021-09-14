@@ -15,8 +15,8 @@ In the first 3 days, you are expected to complete Step 1 -> 3 and get your first
 1. install Metamask as a browser extension: https://metamask.io/download.html and create a wallet. We will only use a test network for The Laurel - currently Rinkeby. Choose one of the created Ethereum addresses (looks like 0x90F79bf6EB2c4f870365E785982E1f101E93b906) to use with The Laurel.
 2. get Rinkeby testnet ETH: https://faucet.rinkeby.io/
 3. create a GitHub account: https://github.com/
-4. Fork this repo into your github aacount.
-5. Then, git clone the repo and add your information, that will appear publicly on our social media bots. Create a Pull Request with: 
+4. Fork this repo into your github account.
+5. Then, git clone the repo and add your information that will appear publicly on our social media bots. Create a Pull Request with: 
   a) edit https://github.com/the-laurel/laurels/blob/main/data/volunteersMap.json and add your chosen Ethereum address and your name or nickname.
   b) add an avatar here https://github.com/the-laurel/laurels/tree/main/data/images. The file title must be your Ethereum address, like 0x90F79bf6EB2c4f870365E785982E1f101E93b906.png
 If you do not know how to create a Pull Request: while logged into GitHub, click on the edit button from https://github.com/the-laurel/laurels/blob/main/data/volunteersMap.json. This will fork the project on your account and you can start editing. Commit your changes to master. Upload your avatar. You will see a create Pull Request button under the "Contribute" dropdown - click on it.
