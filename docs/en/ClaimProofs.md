@@ -11,8 +11,8 @@ member: The Laurel active volunteer
     1. adhering to NDAs or other constrictive rules
 1. Phone browser fetchable/viewable
 ### 2. Readable
-1. Legible: if in other formats than text: easy readable of the whole proofing content
-1. Is in English or correct-translatable by automated services (google translate)
+1. Legible: if in other formats than text: easily readable of the whole proofing content
+1. Is in English or correctly-translatable by automated services (google translate)
 ### 3. Traceable
 1. a causal link (or path) between the proof and the effort output and the proof exists
 1. a causal link (or path) between the effort output and the member name exists
