@@ -28,12 +28,12 @@ Aici vă pregătiți pentru orice nivel superior de acces, inclusiv cel de simpa
 ## Pasul 1 - Creați conturile necesare.
 1. Creați un cont GitHub dacă nu aveți unul: https://github.com/
 2. Dacă nu aveți deja un portofel de browser pentru Ethereum: instalați Metamask ca extensie de browser: https://metamask.io/download.html și creați un portofel. Vom folosi doar o rețea de testare pentru The Laurel - în prezent Rinkeby. Alegeți una dintre adresele Ethereum create (arată ca 0x90F79bf6EB2c4f870365E785982E1f101E93b906) pentru a fi utilizate cu The Laurel.
-3. Adăugați informațiile dvs., care vor apărea public pe roboții noștri de pe rețelele sociale. Creați un pull request (PR) cu:
+3. Adăugați informațiile dvs., care vor apărea public pe roboții noștri de pe rețelele sociale. Creați un singur pull request (PR) cu modicarile:
   a) editați https://github.com/the-laurel/laurels/blob/main/data/volunteersMap.json și adăugați adresa Ethereum aleasă și numele sau porecla.
   b) adăugați un avatar aici https://github.com/the-laurel/laurels/tree/main/data/images. Titlul fișierului trebuie să fie adresa dvs. Ethereum, cum ar fi 0x90F79bf6EB2c4f870365E785982E1f101E93b906.png (extensia .png este obligatorie.)
 Dacă nu știți cum să creați un PR: în timp ce sunteți conectat la GitHub, faceți clic pe butonul de editare de la https://github.com/the-laurel/laurels/blob/main/data/volunteersMap.json. Acest lucru va furniza proiectul în contul dvs. și puteți începe editarea. Confirmați modificările la master. Încărcați-vă avatarul. Veți vedea un buton de creare a cererii de extragere sub meniul derulant „Contribuie” - faceți clic pe el.
 4. Obțineți Rinkeby testnet ETH de la https://www.ethily.io/rinkeby-faucet, https://faucet.rinkeby.io/ sau faucet-uri similare.
-5. Urmariți opțional https://twitter.com/provable_laurel, https://www.facebook.com/The-Laurel-Project-688583115349973 și creați un cont https://www.reddit.com/ dacă nu aveti unul încă.
+5. Urmariți opțional https://twitter.com/provable_laurel, https://www.facebook.com/The-Laurel-Project-688583115349973 și creați un cont pe https://www.reddit.com/ dacă nu aveti unul încă.
 
 
 ## Pasul 2 - Obțineți primii lauri.
@@ -43,7 +43,9 @@ Dacă nu știți cum să creați un PR: în timp ce sunteți conectat la GitHub,
 3. Prima dvs. sarcină poate fi:
     a) retweet ale altor 5 tweets de la @provable_laurel sau tweets-urile unui alt voluntar care au legătură cu The Laurel și cu proiectele tehnice dezvoltate în cadrul The Laurel (de ex. @lorecirstea)
     b) scrieți o postare pe social media (Twitter, Facebook, Reddit, Linkedin) spunând ce v-a inspirat să vă alăturați The Laurel și care sunt așteptările / speranțele dvs. Ne așteptăm să fie sincer și corect in fapt
-    c) propuneți propria idee pentru o sarcină care este compatibilă cu cele de mai sus
+    c) puneți 5 întrebări despre proiectul Laurel și / sau protocol, ca comentariu la https://www.reddit.com/r/provable_laurel/comments/pt3opa/the_laurel_project_and_protocol_qa/ sau alte postări
+-   d) postati un feedback detaliat "la prima vedere": https://www.reddit.com/r/provable_laurel/comments/pt3vus/at_first_sight_no1/
+    e) propuneți propria idee pentru o sarcină care este compatibilă cu cele de mai sus
 4. Dacă predecesorul dvs. îl aprobă, el / ea va înregistra această sarcină pentru dvs. în sistem și vă va oferi linkul pentru revendicare.
 5. Revendicați sarcina și vi se vor acorda laurii.
 
@@ -52,6 +54,7 @@ Dacă nu știți cum să creați un PR: în timp ce sunteți conectat la GitHub,
 Căutați în https://github.com/the-laurel/laurels/issues alte sarcini, de la orice organizator.
 Dacă nu găsiți o sarcină pe care o puteți face, întrebați în canal.
 
+Repozitorul „laurels” este utilizat în prezent pentru sarcini care au fost deja atribuite. Dacă ați finalizat prima sarcină, veți avea acces la mai multe resurse și, prin urmare, la sarcini. Întrebați în acest canal.
 
 ## Urmări
 După prima săptămână și / sau acumularea laurilor necesari pentru nivelul dvs. de implicare, veți avea acces la canalele de Discord și repo-urile de github corespunzătoare.
