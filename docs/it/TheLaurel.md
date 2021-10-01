@@ -1,8 +1,7 @@
-# Che cos'è L'alloro?
-
-L'alloro è:
+# Che cos'è The Laurel?
+The Laurelè:
 - una raccolta di meccanismi della teoria dei giochi*
-- un contratto intelligente Ethereum*
+- uno smart contract Ethereum*
 - un insieme di valute con un proprio mercato, separato dal mercato a scopo di lucro
 - una raccolta di risorse informatiche:
     - hardware, hardware virtuale*
