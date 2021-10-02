@@ -27,7 +27,7 @@ Following are some obvious inferences:
 1. Appreciate other people's efforts by awarding them some of your laurels.
 1. Give constructive criticism even if you are not asked. If you see something done less-than-perfectly, ask for the task so you can do it better.
 1. Propose tasks for the project. The best contributions are those that are hard but proposed by the actual performers (rather than imposed by the necessities of the project upon them). Such efforts are stronger proof that your heart is in the right place with respect to The Laurel.
-1. Challenge the other members on their work. That means not accept questionable efforts. It may not be what the challenged like, but it is what all others would like you to do. Because an unproven or defrauded effort makes everybody's efforts worth a bit less.
+1. Challenge the other members on their work. That means not accept questionable efforts. It may not be what the challenged like to be done to them, but it is what all others would like you to do. Because an unproven or defrauded effort makes everybody's efforts worth a bit less.
 1. All other rules with the property that they may be inferred from the Golden Rule (negative).
 
 This document is always open to revision.
