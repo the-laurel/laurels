@@ -4,7 +4,7 @@
 
 Voluntário provisório (@tentative volunteer):
 Uma breve introdução de como The Laurel funciona agora para tarefas e reivindicações:
-Ao se registrar no sistema, você recebe 10 Laurels de marketing (ML) que pode usado para reivindicar uma tarefa recompensada com Laurels de marketing ou criar sua própria tarefa, que outra pessoa pode reivindicar. Ou você mesmo pode reivindicá-lo, a fim de iniciar a roda do dharma.
+Ao se registrar no sistema, você recebe 10 Laurels de Marketing (ML) que pode usado para reivindicar uma tarefa recompensada com Laurels de Marketing ou criar sua própria tarefa, que outra pessoa pode reivindicar. Ou então, você mesmo pode reivindicar, a fim de iniciar a roda do dharma.
 Se uma tarefa vale 5 ML, então o saldo do organizador é subtraído 5 ML e colocado em caução (podendo ser retraída se a reivindicação for contestada por outros voluntários). A pessoa que reivindicar a tarefa também terá 5 ML subtraídos de seu saldo atual. No momento, 2* o valor da tarefa é suficiente para premiar o reclamante na mesma transação. Então, você verá o equilíbrio primordial do reclamante aumentar.
 Para usar esse equilíbrio primordial, você precisa bombear! (transformá-lo em um saldo atual). Quando você bombeia, seu ancestral é recompensado e seu saldo é multiplicado (no momento) por um fator de 2.
 
