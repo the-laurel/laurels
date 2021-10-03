@@ -19,4 +19,4 @@ O Laurel é:
         - prova de caráter
 - uma sociedade que promove uma evolução suave e contínua para todos os membros e para a sociedade em geral, desde o primeiro nível de generosidade até o último e mais refinado nível *
 
- * - mais detalhado nos repositórios exclusivos para membros
+ *- mais detalhado nos repositórios exclusivos para membros
