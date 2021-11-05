@@ -22,7 +22,7 @@ The funds collected in the invested coin will be donated to charities in a trans
 
 Isn't this for the greater Good?
 
-## Deployment of Rinkeby
+## Deployment on Rinkeby
 
 The Laurel Project already has this contract deployed on Rinkeby and a dapp created with The Marks Factory IDE that is deployed on IPFS and Web2. We invite every inquisitive mind to try it and feel the possibility of ethical profit.
 
@@ -48,5 +48,5 @@ Share this article.
 
 ## Conclusion for Tentative Volunteers
 
-We need more people to help with registering and verifying participant charities, testing the 3Good technology before being released on the Ethereum Mainnet. Apply at: https://www.linkedin.com/company/the-laurel-project
+We need more people to help with registering and verifying participant charities, testing the 3Good technology before being released on the Ethereum Mainnet. Apply at: https://forms.gle/WmSaSbxhHiiA2qZV7
 
