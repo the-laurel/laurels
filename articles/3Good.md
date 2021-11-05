@@ -36,7 +36,7 @@ https://youtu.be/yx0Y9O8UHBk
 
 ## Invitation to Charities
 
-We welcome provable charities to register themselves publicly using this form. The volunteers at The Laurel Project will add the Ethereum addresses of the participating charities to the donation queue of the contract. The donations will happen when enough funds get stored by the use of the 3Good/Bullion coin.
+We welcome provable charities to register themselves publicly using this form: https://forms.gle/nr5AH34oH79Kv3dn6. The volunteers at The Laurel Project will add the Ethereum addresses of the participating charities to the donation queue of the contract. The donations will happen when enough funds get stored by the use of the 3Good/Bullion coin.
 
 ## Conclusion for Tentative Investors
 
