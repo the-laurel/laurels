@@ -40,7 +40,7 @@ The main purpose is to create a video useful for other people and especially for
 You have artistic freedom. You can show your image using a webcam (ideally) or not. You can use your own voice (ideally) or a software-generated voice (if your English is not clear enough). You can show code examples and demos alongside the provided slides.
 An example: https://www.youtube.com/watch?v=ZZtGu9_rUHE
 The first slide (from branding) should be the intro and the last the outro.
-If the web browser is Chrome, you may use https://nighteye.app/ to obtain a dark background (better aligned to the style of most other videos).
+You may use https://nighteye.app/ to obtain a dark background (better aligned to the style of most other videos) in your web browser.
 
 ## - Upvote The Laurel Project (TLP) efforts (optional)
 
