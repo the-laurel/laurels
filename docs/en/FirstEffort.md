@@ -13,7 +13,9 @@ We wish you success.
 
 ## - Video Lessons
 
-Using slides from [The Laurel Project Branding](https://docs.google.com/presentation/d/1L14FauAo4COkp8KjOFF7Wuh3TLRq_PBnX8ka0Qx36_w/edit#slide=id.g10a492d6bd2_0_10), make a video tutorial (2 to 5 minutes) in your area of expertise. Publish it unlisted on your Youtube account. Some examples: [Loredana's Videos](https://www.youtube.com/c/LoredanaCirstea/videos)
+Using slides from [The Laurel Project Branding](https://docs.google.com/presentation/d/1L14FauAo4COkp8KjOFF7Wuh3TLRq_PBnX8ka0Qx36_w/edit#slide=id.g10a492d6bd2_0_10), make a video tutorial (2 to 5 minutes) in your area of expertise. The more detailed and the more sources used, the better. 
+
+Publish it unlisted on your Youtube account. Some examples: [Loredana's Videos](https://www.youtube.com/c/LoredanaCirstea/videos)
 
 The first part of the video description text should read:
 
