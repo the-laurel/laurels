@@ -11,6 +11,6 @@
 
 
 ## 2. Rights
-1. To assume a vote of governance for the product or service that constitutes the output of the volunteering effort.
+1. To assume a vote of governance for the product or service that constitutes the output of the volunteering effort, proportional with the volunteering effort.
 1. To refuse any assignment that is morally or technically inferior or unfitting the expertise when compared to other available assignments.
 1. To (hierarchically) prefer the performance of assignments/actions for reasons related to virtues and universal values to reasons like personal profit, obfuscation, or deceit.
