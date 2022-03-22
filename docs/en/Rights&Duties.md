@@ -2,8 +2,8 @@
 
 ## 1. Duties
 1. To ask the effort manager for qualitative and quantitative public recognition of the effort. 
-  1. Qualitative: what kind of effort. 
-  1. Quantitative: how many minutes.
+    1. Qualitative: what kind of effort. 
+    1. Quantitative: how many minutes.
 1. To keep the effort accounting open for access for all parties that have expertise about that specific effort, in a medium where this accounting may be challenged (github, google docs)
 1. To advise `en detail` about the moral or technical fitness of specific decisions of the leadership - even without being asked, if by such advice greater moral clarity or technical upgrade may be attained. Such advice may be private for an initial period but has to become public afterward.
 1. To accept moral guidance and leadership from the more senior (by laurels earned) volunteers who work on the same project (if any).
